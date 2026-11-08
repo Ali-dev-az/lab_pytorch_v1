@@ -84,3 +84,4 @@ Il constitue une base pour approfondir les architectures de réseaux de neurones
 ---
 
 **Projet réalisé dans le cadre de l'apprentissage du Deep Learning avec PyTorch.**# lab_pytorch_v1
+# lab_pytorch_v1
